@@ -13,7 +13,7 @@ ___
 
 # Основные темы курса:
 * [Урок 1.](https://github.com/zurbaevi/android-material-design/tree/lesson1) Шаблон проекта и обзор компонентов
-* [Урок 2. 1 июля, 20:00 MSK]() Темы приложения
+* [Урок 2. In Pull Request](https://github.com/zurbaevi/android-material-design/tree/lesson2) Темы приложения
 * [Урок 3. 5 июля, 20:00 MSK]() Навигация
 * [Урок 4. 8 июля, 20:00 MSK]() Макеты
 * [Урок 5. 12 июля, 20:00 MSK]() Анимации
