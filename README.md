@@ -13,11 +13,11 @@ ___
 
 # Основные темы курса:
 * [Урок 1.](https://github.com/zurbaevi/android-material-design/tree/lesson1) Шаблон проекта и обзор компонентов
-* [Урок 2. In Pull Request](https://github.com/zurbaevi/android-material-design/tree/lesson2) Темы приложения
-* [Урок 3. 5 июля, 20:00 MSK]() Навигация
-* [Урок 4. 8 июля, 20:00 MSK]() Макеты
-* [Урок 5. 12 июля, 20:00 MSK]() Анимации
-* [Урок 6. 15 июля, 20:00 MSK]() RecyclerView
+* [Урок 2.](https://github.com/zurbaevi/android-material-design/tree/lesson2) Темы приложения
+* [Урок 3.](https://github.com/zurbaevi/android-material-design/tree/lesson3) Навигация
+* [Урок 4. In Pull request](https://github.com/zurbaevi/android-material-design/pull/4) Макеты
+* [Урок 5. In Pull request](https://github.com/zurbaevi/android-material-design/pull/5) Анимации
+* [Урок 6. In Pull request](https://github.com/zurbaevi/android-material-design/pull/6) RecyclerView
 * [Урок 7. 19 июля, 20:00 MSK]() Работа с текстом
 * [Урок 8. 22 июля, 20:00 MSK]() Экран загрузки и UX-дизайн
 #### [Сертификат будет доступен после успешнего окончании курса]()
