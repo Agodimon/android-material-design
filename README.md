@@ -15,7 +15,7 @@ ___
 * [Урок 1.](https://github.com/zurbaevi/android-material-design/tree/lesson1) Шаблон проекта и обзор компонентов
 * [Урок 2.](https://github.com/zurbaevi/android-material-design/tree/lesson2) Темы приложения
 * [Урок 3.](https://github.com/zurbaevi/android-material-design/tree/lesson3) Навигация
-* [Урок 4. In Pull request](https://github.com/zurbaevi/android-material-design/pull/4) Макеты
+* [Урок 4.](https://github.com/zurbaevi/android-material-design/pull/4) Макеты
 * [Урок 5. In Pull request](https://github.com/zurbaevi/android-material-design/pull/5) Анимации
 * [Урок 6. In Pull request](https://github.com/zurbaevi/android-material-design/pull/6) RecyclerView
 * [Урок 7. 19 июля, 20:00 MSK]() Работа с текстом
