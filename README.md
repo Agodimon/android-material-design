@@ -18,7 +18,7 @@ ___
 * [Урок 4.](https://github.com/zurbaevi/android-material-design/tree/lesson4) Макеты
 * [Урок 5.](https://github.com/zurbaevi/android-material-design/tree/lesson5) Анимации
 * [Урок 6.](https://github.com/zurbaevi/android-material-design/tree/lesson6) RecyclerView
-* [Урок 7. 19 июля, 20:00 MSK]() Работа с текстом
+* [Урок 7.](https://github.com/zurbaevi/android-material-design/tree/lesson7) Работа с текстом
 * [Урок 8. 22 июля, 20:00 MSK]() Экран загрузки и UX-дизайн
 #### [Сертификат будет доступен после успешнего окончании курса]()
 
